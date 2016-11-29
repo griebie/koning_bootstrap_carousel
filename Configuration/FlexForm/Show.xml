@@ -5,6 +5,14 @@
     <ROOT>
         <type>array</type>
         <el>
+            <settings.data.template>
+                <TCEforms>
+                    <label>LLL:EXT:koning_bootstrap_carousel/Resources/Private/Language/locallang_be.xlf:configuration.show.template</label>
+                    <config>
+                        <type>input</type>
+                    </config>
+                </TCEforms>
+            </settings.data.template>
             <settings.data.interval>
                 <TCEforms>
                     <label>LLL:EXT:koning_bootstrap_carousel/Resources/Private/Language/locallang_be.xlf:configuration.show.interval</label>

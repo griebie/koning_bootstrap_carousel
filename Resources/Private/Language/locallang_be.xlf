@@ -68,6 +68,9 @@
             <trans-unit id="configuration.show.interval">
                 <source>The amount of time to delay between automatically cycling an item (miliseconds)</source>
             </trans-unit>
+            <trans-unit id="configuration.show.template">
+                <source>Overwrite the template to use for this instance of Bootstrap Carousel (specify path)</source>
+            </trans-unit>
             <trans-unit id="configuration.show.wrap">
                 <source>Whether the carousel should cycle continuously or have hard stops</source>
             </trans-unit>
